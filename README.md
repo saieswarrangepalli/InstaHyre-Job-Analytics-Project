@@ -52,26 +52,19 @@ Analysed the relationship between the number of Job Openings and the Size of the
 
  **Insights**
  
- 
-1.The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having  
-less than 10 employees have least number of job openings.
+1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings.
 
-2.There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and 
-Writers have the least number of job openings.
+2. There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and Writers have the least number of job openings.
 
-3.Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of 
-Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
+3. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
 
-4.Programming languages like Python, Java and Java script are the most in demand skills.
+4. Programming languages like Python, Java and Java script are the most in demand skills.
 
-5.Bangalore and Mumbai are the Cities with highest number of job openings.
+5. Bangalore and Mumbai are the Cities with highest number of job openings.
 
-6.Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in 
-post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
+6. Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
 
-7.LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large 
-companies in them are creating the highest number of employment in India.
-
+7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
 
  **Future Scope**
  
